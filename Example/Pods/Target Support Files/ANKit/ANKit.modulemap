@@ -1,0 +1,6 @@
+framework module ANKit {
+  umbrella header "ANKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

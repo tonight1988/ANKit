@@ -1,0 +1,27 @@
+PODS:
+  - ANKit (0.1.0)
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+
+DEPENDENCIES:
+  - ANKit (from `../`)
+  - FBSnapshotTestCase
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - FBSnapshotTestCase
+
+EXTERNAL SOURCES:
+  ANKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ANKit: 4a82ed5dcd6257233b6c3ef717d3973b9c072bc3
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+
+PODFILE CHECKSUM: ca4e57f38cfba759b203722c8419bdcfa46b11b8
+
+COCOAPODS: 1.6.1
